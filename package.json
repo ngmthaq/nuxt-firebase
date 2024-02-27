@@ -13,10 +13,10 @@
   },
   "dependencies": {
     "firebase": "^10.8.0",
+    "firebase-tools": "^13.3.1",
     "nuxt": "^3.10.3",
     "vue": "^3.4.19",
-    "vue-router": "^4.3.0",
-    "vuefire": "^3.1.23"
+    "vue-router": "^4.3.0"
   },
   "devDependencies": {
     "eslint": "^8.57.0",
